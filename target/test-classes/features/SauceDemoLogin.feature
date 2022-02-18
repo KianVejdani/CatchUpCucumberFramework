@@ -4,7 +4,7 @@ Feature: Sauce Demo Login
 		login tests
 		
 		Background: 
-			Given I am on teh SauceDemo login page 
+			Given I am on the SauceDemo login page 
 			
 			
 		@SauceValidLogin @SmokeTests
